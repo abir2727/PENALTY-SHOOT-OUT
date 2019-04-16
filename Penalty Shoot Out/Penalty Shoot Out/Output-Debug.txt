@@ -1,0 +1,76 @@
+﻿'Amateur Soccer.exe': Loaded 'C:\Users\User\Desktop\Amateur Soccer\Amateur Soccer\Amateur Soccer\Debug\Amateur Soccer.exe', Symbols loaded.
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\win32u.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\gdi32full.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\msvcp_win.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\ucrtbase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\opengl32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Users\User\Desktop\Amateur Soccer\Amateur Soccer\Amateur Soccer\Amateur Soccer\GLUT32.DLL', Binary was not built with debug information.
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\glu32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\winmmbase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\winmmbase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\winmmbase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\winmmbase.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\combase.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\crypt32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\msasn1.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\cryptsp.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\wtsapi32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\dxgi.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\SHCore.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\windows.storage.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\profapi.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Amateur Soccer.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll'
+The thread 'Win32 Thread' (0x488) has exited with code 0 (0x0).
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll'
+'Amateur Soccer.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\ntmarta.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\WinTypes.dll', Cannot find or open the PDB file
+'Amateur Soccer.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x360c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x4cf0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x3fc4) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x323c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x4bb0) has exited with code 0 (0x0).
+The program '[13580] Amateur Soccer.exe: Native' has exited with code 0 (0x0).

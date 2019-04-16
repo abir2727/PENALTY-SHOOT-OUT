@@ -1,0 +1,85 @@
+﻿'Penalty Shoot Out.exe': Loaded 'J:\Penalty Shoot Out\Debug\Penalty Shoot Out.exe', Symbols loaded.
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\win32u.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\gdi32full.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msvcp_win.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ucrtbase.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\opengl32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\glu32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'J:\Penalty Shoot Out\Penalty Shoot Out\GLUT32.DLL', Binary was not built with debug information.
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\winmmbase.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\combase.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\crypt32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msasn1.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\cryptsp.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll'
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\ig9icd32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\SHCore.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\wtsapi32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\dxgi.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\windows.storage.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\profapi.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\MMDevAPI.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\devobj.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\propsys.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\wdmaud.drv', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\avrt.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ksuser.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Unloaded 'C:\Windows\SysWOW64\version.dll'
+'Penalty Shoot Out.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_9172c4e962e5b3ee\nvdlist.dll'
+The thread 'Win32 Thread' (0x33d0) has exited with code 0 (0x0).
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Unloaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll'
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\AudioSes.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\WinTypes.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msacm32.drv', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\msacm32.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\midimap.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll', Cannot find or open the PDB file
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ntmarta.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x3ba0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x2b54) has exited with code 0 (0x0).
+'Penalty Shoot Out.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x20a0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x3a60) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x21b8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xb64) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x44e4) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x2648) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x2bb8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x4344) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x16f0) has exited with code 0 (0x0).
+The program '[19368] Penalty Shoot Out.exe: Native' has exited with code 0 (0x0).
